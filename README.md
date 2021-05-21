@@ -1,6 +1,9 @@
 # Expense Tracker 💰
- 
- The Web App is created using **Reactjs** ⚛️ and **Redux** .
+
+## About :
+**Expense Tracker** keeps track of your spendings, Income. 💵
+
+The Web App is created using **Reactjs** ⚛️ and **Redux** .
  
  ## Screenshot : 📸
  
